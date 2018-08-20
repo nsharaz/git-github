@@ -1,2 +1,2 @@
 # git-github
-firstTime
+This is for tutorial purpose.
